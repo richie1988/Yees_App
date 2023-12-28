@@ -74,7 +74,6 @@ Things you may want to cover:
 
 ## **Getting Started**<a name="getting-started"></a>
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -99,7 +98,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/richie1988/Yees_App.git
 
 ```
-
 ### Install
 
 Install this project with:
@@ -109,7 +107,6 @@ Install this project with:
   
   bundle install
 ```
-
 ### 💾 Database
 
 Create the databases and run migrations with:
@@ -118,7 +115,6 @@ Create the databases and run migrations with:
 rails db:create
 rails db:migrate
 ```
-
 ### Usage
 
 To run the project, execute the following command:
@@ -126,7 +122,6 @@ To run the project, execute the following command:
 ```sh
   rails server or rails s
 ```
-
 ### Run tests
 
 To run tests, run the following command:
