@@ -1,6 +1,7 @@
 
-<h1>Employees List</h1>
 <% if user_signed_in? %>
+<h1>Employees List</h1>
+
 <div id="employees">
   <% @employees.each do |employee| %>
     <%= render employee %>
@@ -12,7 +13,6 @@
 
 <%= link_to "New employee", new_employee_path, class:"btn btn-secondary" %>
 <% else %>
-<h1>Hello World!</h1>
-This is my first Rails webapage
-
+<h1>HELLO WELCOME TO YOUR WORLD OF WORKERS!</h1>
+<P>We work hard to help you find your hard worker's employees</P>
 <% end %>
