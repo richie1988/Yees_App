@@ -1,7 +1,7 @@
 # README
 
 <div style="text-align: center;">
-  <img src="app/assets/images/ShareX_UmTg7CUEzu" alt="Yees_App" />
+  <img src="app/assets/images/ShareX_UmTg7CUEzu.jpg" alt="Yees_App" />
 </div>
 
 This README would normally document whatever steps are necessary to get the
